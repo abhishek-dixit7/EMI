@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EMI</string>
+    <string name="editTextAmount">Amount</string>
+    <string name="editTextRate">Rate</string>
+    <string name="editTextTenure">Tenure(Mnt)</string>
+    <string name="editTextDays">Days</string>
+    <string name="editTextdod">yyyy-mm-dd</string>
+    <string name="Textdofe">Date of 1st EMI</string>
+    <string name="Textdod">Date of Disbursement</string>
+    <string name="TextEMI">EMI</string>
+    <string name="btnSet">SET</string>
+    <string name="btnCal">CALCULATE</string>
+</resources>
